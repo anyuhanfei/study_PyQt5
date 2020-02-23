@@ -1,5 +1,8 @@
 '''
 一切的开始，hello world
+
+pyqt5 安装
+pip install PyQt5 -i https://pypi.douban.com/simple
 '''
 
 import sys
