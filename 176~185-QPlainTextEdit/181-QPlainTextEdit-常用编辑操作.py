@@ -3,7 +3,7 @@
 '''
 import sys
 
-from PyQt5.QtWidgets import QWidget, QApplication
+from PyQt5.QtWidgets import QWidget, QApplication, QPlainTextEdit
 
 
 class Window(QWidget):
@@ -12,6 +12,8 @@ class Window(QWidget):
 
         self.setWindowTitle('181-QPlainTextEdit-常用编辑操作')
         self.resize(1000, 500)
+
+        QPlainTextEdit(self)
 
 
 if __name__ == "__main__":
