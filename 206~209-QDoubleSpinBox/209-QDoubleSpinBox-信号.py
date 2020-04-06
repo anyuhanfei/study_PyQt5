@@ -1,6 +1,7 @@
 '''
 209-QDoubleSpinBox-信号
 
+基本同 QSpinBox
 '''
 import sys
 
