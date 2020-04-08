@@ -1,5 +1,5 @@
 '''
-
+233-QAbstractSlider-简介
 '''
 import sys
 
@@ -10,7 +10,7 @@ class Window(QWidget):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
-        self.setWindowTitle('')
+        self.setWindowTitle('233-QAbstractSlider-简介')
         self.resize(1000, 500)
 
 
