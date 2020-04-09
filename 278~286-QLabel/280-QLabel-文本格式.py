@@ -1,5 +1,5 @@
 '''
-235-QDialog-模态与非模态
+280-QLabel-文本格式
 '''
 import sys
 
@@ -10,7 +10,7 @@ class Window(QWidget):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
-        self.setWindowTitle('235-QDialog-模态与非模态')
+        self.setWindowTitle('280-QLabel-文本格式')
         self.resize(1000, 500)
 
 

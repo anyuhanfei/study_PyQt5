@@ -1,5 +1,5 @@
 '''
-
+243-QRubberBand-案例
 '''
 import sys
 
@@ -10,7 +10,7 @@ class Window(QWidget):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
 
-        self.setWindowTitle('')
+        self.setWindowTitle('243-QRubberBand-案例')
         self.resize(1000, 500)
 
 
