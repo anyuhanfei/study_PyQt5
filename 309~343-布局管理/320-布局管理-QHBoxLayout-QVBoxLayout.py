@@ -1,6 +1,9 @@
 '''
 320-布局管理-QHBoxLayout-QVBoxLayout
 
+QHBoxLayout 和 QVBoxLayout 在功能上与父类没有什么太大的区别和新添加的功能, 仅仅是确认了排列的方向而已
+
+使用 setDirection() 方法还可以修改方向
 '''
 import sys
 
