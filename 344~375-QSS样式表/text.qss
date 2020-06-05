@@ -1,0 +1,6 @@
+QLabel#py347_l1 {
+    background-color: red;
+}
+QLabel#py347_l1:hover {
+    background-color: blue;
+}

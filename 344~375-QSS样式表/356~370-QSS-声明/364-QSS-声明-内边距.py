@@ -1,6 +1,15 @@
 '''
 364-QSS-声明-内边距
 
+统一设置 -- padding: 上 右 下 左
+分开设置 -- padding-top
+            padding-right
+            padding-bottom
+            padding-left
+常用取值:
+    16px
+    1em
+
 '''
 import sys
 
